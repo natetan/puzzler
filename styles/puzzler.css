@@ -1,0 +1,35 @@
+body {
+	text-align: center;
+}
+
+body, #shufflebutton {
+    font-family: cursive;
+    font-size: 14pt;
+}
+
+#puzzlearea {
+    height: 400px;
+    width: 400px;
+    margin: auto;
+    position: relative;
+}
+
+.puzzlepiece {
+    background-image: url("../images/background.jpg");
+    border: 5px solid black;
+    width: 90px;
+    height: 90px;
+    font-size: 40pt;
+    position: absolute;
+}
+
+.movable {
+    border-color: red;
+    color: red;
+    cursor: pointer;
+}
+
+#output {
+	font-size: 31pt;
+	font-weight: bold;
+}
