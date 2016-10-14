@@ -11,6 +11,7 @@
 - Repeat this process: left side, then top
 
 ### Notes
+- Tiles that can be moved will glow red when hovered over
 - This was one of the homework assignments for a web class
 - ```.editorconfig``` makes Github code viewing of tab size 4
 - JavaScript Heavy
